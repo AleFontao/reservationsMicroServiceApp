@@ -61,6 +61,7 @@ $pnpm i class-validator class-transformer
 
 #Logger
 $pnpm i nestjs-pino pino-http
+$pnpm i pino-pretty
 ```
 ## Test
 
