@@ -55,6 +55,9 @@ $pnpm i @nestjs/config
 
 #Joi
 $pnpm i joi
+
+#Validators and transformers
+$pnpm i class-validator class-transformer
 ```
 ## Test
 
