@@ -44,7 +44,7 @@ $ pnpm run start:dev
 # production mode
 $ pnpm run start:prod
 ```
-## Libraries that i used
+## Libraries or dependencies that i used
 
 ```bash
 # mongoose
@@ -53,6 +53,8 @@ $pnpm i @nestjs/mongoose mongoose
 # CONFIG
 $pnpm i @nestjs/config
 
+#Joi
+$pnpm i joi
 ```
 ## Test
 
