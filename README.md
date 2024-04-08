@@ -70,6 +70,7 @@ $pnpm i -D @types/passport-jwt
 
 #Encrypt
 $pnpm i bcrypt
+$pnpm i -D @types/bcrypt
 ```
 ## Test
 
