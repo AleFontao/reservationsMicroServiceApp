@@ -62,6 +62,14 @@ $pnpm i class-validator class-transformer
 #Logger
 $pnpm i nestjs-pino pino-http
 $pnpm i pino-pretty
+
+#JWT
+$pnpm i --save @nestjs/passport passport
+$pnpm i @nestjs/jwt passport-jwt
+$pnpm i -D @types/passport-jwt
+
+#Encrypt
+$pnpm i bcrypt
 ```
 ## Test
 
