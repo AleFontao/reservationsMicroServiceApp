@@ -58,6 +58,9 @@ $pnpm i joi
 
 #Validators and transformers
 $pnpm i class-validator class-transformer
+
+#Logger
+$pnpm i nestjs-pino pino-http
 ```
 ## Test
 
