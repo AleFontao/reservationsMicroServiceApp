@@ -1,0 +1,19 @@
+import { Injectable } from '@nestjs/common';
+import { CreateUserDto } from './dto/create-user.dto';
+import { UsersRepository } from './users.repository';
+
+@Injectable()
+export class UsersService {
+
+    constructor(private readonly usersRepository: UsersRepository){
+        
+    }
+    createUser(createUserDto: CreateUserDto) {
+        return this.usersRepository.create(createUserDto);
+    }
+
+    findAll() {
+        //Con empty fieldQuery
+        return this.usersRepository.find({});
+    }
+}
