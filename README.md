@@ -44,7 +44,15 @@ $ pnpm run start:dev
 # production mode
 $ pnpm run start:prod
 ```
+##Libraries that i used
+```bash
+# mongoose
+$pnpm i @nestjs/mongoose mongoose
 
+# CONFIG
+$pnpm i @nestjs/config
+
+```
 ## Test
 
 ```bash
@@ -58,20 +66,7 @@ $ pnpm run test:e2e
 $ pnpm run test:cov
 ```
 
-## Support
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
-# reservationsMicroServiceApp
-
-<h2 align="left">System Architecture</h2>
+##System Architecture
 ![image](https://github.com/AleFontao/reservationsMicroServiceApp/assets/82983855/abbbc3a9-95ec-47f6-b9ac-48ef6f220739)
