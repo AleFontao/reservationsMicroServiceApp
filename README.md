@@ -44,7 +44,7 @@ $ pnpm run start:dev
 # production mode
 $ pnpm run start:prod
 ```
-##Libraries that i used
+## Libraries that i used
 
 ```bash
 # mongoose
@@ -67,6 +67,6 @@ $ pnpm run test:e2e
 $ pnpm run test:cov
 ```
 
-##System Architecture
+## System Architecture
 
 ![image](https://github.com/AleFontao/reservationsMicroServiceApp/assets/82983855/abbbc3a9-95ec-47f6-b9ac-48ef6f220739)
