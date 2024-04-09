@@ -76,6 +76,8 @@ $pnpm i -D @types/bcrypt
 $pnpm i cookie-parser
 $pnpm i -D @types/cookie-parser
 
+#MicroServices
+@pnpm i @nestjs/microservices
 ```
 ## Test
 
