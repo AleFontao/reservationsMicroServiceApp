@@ -71,6 +71,11 @@ $pnpm i -D @types/passport-jwt
 #Encrypt
 $pnpm i bcrypt
 $pnpm i -D @types/bcrypt
+
+#Cookie
+$pnpm i cookie-parser
+$pnpm i -D @types/cookie-parser
+
 ```
 ## Test
 
