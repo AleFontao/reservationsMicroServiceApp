@@ -78,6 +78,9 @@ $pnpm i -D @types/cookie-parser
 
 #MicroServices
 @pnpm i @nestjs/microservices
+
+#Stripe
+@pnpm i stripe
 ```
 ## Test
 
